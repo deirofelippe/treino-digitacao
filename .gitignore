@@ -1,0 +1,8 @@
+build/
+dist/
+nbproject/
+AV2.jar
+build.xml
+manifest.mf
+test
+.vscode
