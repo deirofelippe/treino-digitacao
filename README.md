@@ -2,9 +2,9 @@
 
 AV2 de Programação Orientada a Objetos de 2021.1
 
-[Clique aqui para ver o vídeo.](https://youtu.be/pYBU4i0_I3I)
+[Clique aqui para ver o vídeo normal.](https://youtu.be/pYBU4i0_I3I)
 
-![](https://img.youtube.com/vi/pYBU4i0_I3I/0.jpg)
+![](./usando.gif)
 
 ## Foi usado
 
